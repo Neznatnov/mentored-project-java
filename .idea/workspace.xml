@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d79dbdbf-651b-4437-b7ae-03c62452f6f6" name="Changes" comment="" />
+    <list default="true" id="d79dbdbf-651b-4437-b7ae-03c62452f6f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neznatnov/loop/Task0421.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,26 +44,15 @@
     "Application.Task0406.executor": "Run",
     "Application.Task0407.executor": "Run",
     "Application.Task0420.executor": "Run",
+    "Application.Task0421.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/veronikaackaa/IdeaProjects/mentored-project-java"
+    "last_opened_file_path": "/Users/veronikaackaa/IdeaProjects/mentored-project-java",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task0407">
-    <configuration name="Task0405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neznatnov.loop.Task0405" />
-      <module name="mentored-project-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neznatnov.loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task0421">
     <configuration name="Task0406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.neznatnov.loop.Task0406" />
       <module name="mentored-project-java" />
@@ -111,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task0421" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neznatnov.loop.Task0421" />
+      <module name="mentored-project-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neznatnov.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task0421" />
         <item itemvalue="Application.Task0407" />
         <item itemvalue="Application.Task0406" />
         <item itemvalue="Application.Task0420" />
         <item itemvalue="Application.Task0419" />
-        <item itemvalue="Application.Task0405" />
       </list>
     </recent_temporary>
   </component>
